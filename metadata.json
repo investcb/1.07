@@ -1,0 +1,6 @@
+{
+  "name": "App Thẩm Định Hồ Sơ Đăng Ký Kinh Doanh AI",
+  "description": "Hệ thống hỗ trợ Thẩm định, Sửa đổi và Khởi tạo Hồ sơ Đăng ký Doanh nghiệp tự động bằng Trí tuệ Nhân tạo Gemini theo Luật Doanh nghiệp 2020",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
